@@ -1,0 +1,63 @@
+/*---------------------------------------/*
+ # SETTINGS
+/*---------------------------------------*/
+
+/*---------------------------------------/*
+ # GENERIC
+/*---------------------------------------*/
+
+/* add the 2 variable webfonts here */
+
+/*---------------------------------------/*
+ # ELEMENTS
+/*---------------------------------------*/
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    /* set the global font-family to Fraunces here */
+
+    /* set the optical size to 9 here */
+
+    /* give the html a background-image of the img found in assets/img */
+    /* make sure it's positioned like the design */
+
+    background-color: #000;
+    color: white;
+    line-height: 1.5;
+    /* anti-aliasing */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    /* make sure that the body is centered and has a max-width of the minium size of the content */
+    /* the text should be centered also */
+    padding: 2rem;
+    min-height: 100vh;
+}
+
+h1 {
+    color: darkorange;
+    /* set the font-size to a fluid font-size from 3rem to 10rem here */
+    /* set the font-weight to 700 */
+    /* make sure that the text has a line-height of .9 */
+    /* set the font-variation-settings to an optical size of 144, soft of 10 and wonk to 1 */
+    /* make sure the text has a max-width of the minium size of the content */
+}
+
+
+/*---------------------------------------/*
+# OBJECTS
+/*---------------------------------------*/
+
+/*---------------------------------------/*
+# COMPONENTS
+/*---------------------------------------*/
+
+/*---------------------------------------/*
+ # UTILITIES
+/*---------------------------------------*/
