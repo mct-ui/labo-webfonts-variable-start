@@ -22,8 +22,11 @@ html {
 
     /* set the optical size to 9 here */
 
-    /* give the html a background-image of the img found in assets/img */
-    /* make sure it's positioned like the design */
+    /*
+    give the html a background-image of the img found in assets/img
+    make sure it's positioned like the design so that you only see a part of the image
+    and if you scroll you see the rest
+    */
 
     background-color: #000;
     color: white;
